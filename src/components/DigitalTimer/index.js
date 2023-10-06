@@ -1,4 +1,3 @@
-/* Write your CSS here */
 // Write your code here
 import {Component} from 'react'
 
